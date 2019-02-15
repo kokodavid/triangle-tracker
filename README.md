@@ -24,7 +24,7 @@ The Technologies used were:-
 
 ## Support and contact details
 incase of any questions please feel free to call the developer on 0770057240 or Email;kokodavid78@gmail.com
-link to live github https://kokodavid.github.io/triangle-tracker
+link to live github pages https://kokodavid.github.io/triangle-tracker
 ### License
  The program is not private hence can be viewed publicly MIT License
 Copyright (c) 2019 kokocityweb ltd

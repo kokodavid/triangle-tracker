@@ -1,12 +1,17 @@
-body{
-  background-color: black;
+p{
+  color: blue;
+  font-size: 35px;
 }
 .koko{
-  color: grey;
+  color: blue;
   border-width: 50px;
+  font-size: 40px;
+  padding:20px;
+  border: 10px solid orange:
+  margin: 40px:
 }
 h1{
-color: grey;
+color: blue;
 text-align: center;
 
 }
@@ -17,4 +22,7 @@ button{
 span{
   color: white;
   text-align: center;
+}
+img{
+  float: inherit;
 }
