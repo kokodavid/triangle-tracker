@@ -14,7 +14,7 @@ The triangle tracker is an application developed to help us confirm a type of a 
 | A Scalene Triangle                 | side1 (1) side1 (2) side1(3) |  This is a Scalene Triangle     |
 | Whether its a triangle             | side1 (0) side1 (0) side1(0) |  cannot form a triangle         |
 ## Technologies Used
-The Technologiesused were:-
+The Technologies used were:-
 java-script
 Atom
 Google chrome
