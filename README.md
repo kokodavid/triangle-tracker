@@ -15,11 +15,12 @@ The triangle tracker is an application developed to help us confirm a type of a 
 | Whether its a triangle             | side1 (0) side1 (0) side1(0) |  cannot form a triangle         |
 ## Technologies Used
 The Technologies used were:-
-java-script
-Atom
-Google chrome
-Cascading style-sheets
-HTML
+<ul>
+   <li>java-script</li>
+  <li>Atom</li>
+  <li>Cascading style-sheets</li>
+ <li>HTML</li>
+ </ul>
 
 ## Support and contact details
 incase of any questions please feel free
