@@ -23,7 +23,7 @@ The Technologies used were:-
  </ul>
 
 ## Support and contact details
-incase of any questions please feel free
+incase of any questions please feel free to call the developer on 0770057240 or Email;kokodavid78@gmail.com
 link to live github
 ### License
  The program is not private hence can be viewed publicly MIT License
