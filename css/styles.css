@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+.koko{
+  color: grey;
+  border-width: 50px;
+}
+h1{
+color: grey;
+text-align: center;
+
+}
+button{
+  color: purple;
+  height: 50px;
+}
+span{
+  color: white;
+  text-align: center;
+}
