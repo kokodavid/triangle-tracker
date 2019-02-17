@@ -2,7 +2,7 @@
 # The Triangle Tracker
 #### The triangle tracker helps us to confirm a type of a triangle.15/2/2019
 #### By David Mochoge
- David Mochoge is a software developer from the Moringa school,and has experience in coding . incase of inquiries use the contacts in the support and contactdetails section below
+ David Mochoge is a software developer from the Moringa school,and has experience in coding . incase of inquiries use the contacts in the support and contact details section below
 ## Description
 The triangle tracker is an application developed to help us confirm a type of a triangle using the entry of three values,the application only confirms values that are able to setup a  triangle and replys NaN if the entries cannot comeup with a triangle.The triangle tracker is a simple application to use to even people with no skills in computer operations.
 ## Setup/Installation Requirements
